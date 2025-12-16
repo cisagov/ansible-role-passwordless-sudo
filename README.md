@@ -1,6 +1,7 @@
 # ansible-role-passwordless-sudo #
 
 [![GitHub Build Status](https://github.com/cisagov/ansible-role-passwordless-sudo/workflows/build/badge.svg)](https://github.com/cisagov/ansible-role-passwordless-sudo/actions)
+[![License](https://img.shields.io/github/license/cisagov/ansible-role-passwordless-sudo)](https://spdx.org/licenses/)
 [![CodeQL](https://github.com/cisagov/ansible-role-passwordless-sudo/workflows/CodeQL/badge.svg)](https://github.com/cisagov/ansible-role-passwordless-sudo/actions/workflows/codeql-analysis.yml)
 
 This is a skeleton project that can be used to quickly get a new
